@@ -1,0 +1,238 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Antonio",
+      "surnames": "Morcillo Martínez",
+      "title": "JEE - Liferay Team Leader",
+      "description": "Soy uno de los Team Leaders del Equipo de IT de Weguest.\nDesarrollamos nuestras aplicaciones con Spring Boot 2.x y 3.x con Java 11, 17 o 21 y las compilamos con Maven. Testeamos exhaustivamente con Junit 5, Assertj, Mockito y Spring Testing Framework. Empleamos MySQL (Google Cloud SQL) como base de datos relacional, Google DataStore como BBDD No-SQL y RabbitMQ como broker de mensajería.\nRealizamos CI y en algunos proyectos CD apoyándonos en Jenkins.\nCreamos la UI web con React y Typescript, apoyándonos también en Axios, Tanstack Query o Zustand.\nNuestro website y blog está construido con Liferay.\nTodas nuestras aplicaciones están desplegadas en Google Cloud usando Compute Engine o el servicio gestionado de Kubernetes de Google Cloud, GKE.\n\nSoy Ingeniero Informático e Ingeniero Técnico en Informática de Sistemas con casi 20 años de experiencia en el desarrollo de aplicaciones web usando diversas tecnologías especialmente Spring Boot, JEE y Liferay. También cuento con experiencia puntual en el desarrollo aplicaciones para móviles iOS y Android.\n\n------------------------------------------------------\n\nI am one of the Team Leaders of the IT Team at Weguest. We develop our applications using Spring Boot 2.x and 3.x with Java 11, 17, or 21, and we compile them with Maven. We conduct thorough testing with Junit 5, Assertj, Mockito, and the Spring Testing Framework. We use MySQL (Google Cloud SQL) as a relational database, Google DataStore as a No-SQL database, and RabbitMQ as a messaging broker.\n\nWe implement Continuous Integration (CI) and, in some projects, Continuous Deployment (CD) with support from Jenkins. We create the web UI using React and Typescript, also utilizing Axios, Tanstack Query, or Zustand. Our website and blog are built with Liferay. All our applications are deployed on Google Cloud using Compute Engine or the managed Kubernetes service of Google Cloud, GKE.\n\nI am a Computer Engineer and Technical Engineer in Systems Informatics with nearly 20 years of experience in developing web applications using various technologies, especially Spring Boot, JEE, and Liferay. I also have occasional experience in developing applications for iOS and Android mobile platforms.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/20/e6875725-7a46-454d-b277-ba5f9fe548f7_linkedin-photo-52499.linkedin-photo-52499",
+        "alt": "24/01/20/e6875725-7a46-454d-b277-ba5f9fe548f7_linkedin-photo-52499.linkedin-photo-52499"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJO88ZsT15Yw0RcOoi126vAgQ)",
+        "country": "España",
+        "region": "Región de Murcia"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "weguest",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/20/ff643eb1-3457-476b-8fbf-47dd58d79f9e_linkedin-photo-52499.linkedin-photo-52499",
+            "alt": "24/01/20/ff643eb1-3457-476b-8fbf-47dd58d79f9e_linkedin-photo-52499.linkedin-photo-52499"
+          }
+        },
+        "roles": [
+          {
+            "name": "Backend software engineer",
+            "startDate": "2019-04-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DIGIO Soluciones Digitales",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/20/2f556f01-efb2-49d6-acfb-e3184d0a471d_linkedin-photo-52499.linkedin-photo-52499",
+            "alt": "24/01/20/2f556f01-efb2-49d6-acfb-e3184d0a471d_linkedin-photo-52499.linkedin-photo-52499"
+          }
+        },
+        "roles": [
+          {
+            "name": "JEE - Liferay Team Leader",
+            "startDate": "2014-10-01",
+            "finishDate": "2019-04-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "OHIM",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/20/a683a73c-f1d9-477f-a224-8f5b906c2b77_linkedin-photo-52499.linkedin-photo-52499",
+            "alt": "24/01/20/a683a73c-f1d9-477f-a224-8f5b906c2b77_linkedin-photo-52499.linkedin-photo-52499"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Software Developer/Liferay Expert",
+            "startDate": "2012-07-01",
+            "finishDate": "2014-10-31",
+            "challenges": [
+              {
+                "description": "OHIM Website"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Steria",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/20/f077dc43-3cd5-4acd-b2c3-a339c5be79f9_linkedin-photo-52499.linkedin-photo-52499",
+            "alt": "24/01/20/f077dc43-3cd5-4acd-b2c3-a339c5be79f9_linkedin-photo-52499.linkedin-photo-52499"
+          }
+        },
+        "roles": [
+          {
+            "name": "Analista Programador",
+            "startDate": "2006-05-01",
+            "finishDate": "2012-06-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Metaenlace"
+        },
+        "roles": [
+          {
+            "name": "Programador",
+            "startDate": "2005-05-01",
+            "finishDate": "2006-05-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sinergia Tecnologica"
+        },
+        "roles": [
+          {
+            "name": "Programador",
+            "startDate": "2004-11-01",
+            "finishDate": "2005-05-31"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Kubernetes Engine",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hibernate",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JPA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Cloud",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniero, Informatica",
+        "startDate": "1998-01-01",
+        "institution": {
+          "name": "Universidad de Murcia",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/20/67bf73c1-7db9-474f-bad1-ae56912a2282_linkedin-photo-52499.linkedin-photo-52499",
+            "alt": "24/01/20/67bf73c1-7db9-474f-bad1-ae56912a2282_linkedin-photo-52499.linkedin-photo-52499"
+          }
+        },
+        "finishDate": "2004-01-01"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "contactMails": [
+        "antoniomm80@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Google Cloud",
+        "type": "technology"
+      },
+      {
+        "name": "Google Kubernetes Engine",
+        "type": "technology"
+      },
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      }
+    ]
+  }
+}
