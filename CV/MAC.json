@@ -201,6 +201,17 @@
           }
         },
         "finishDate": "2004-01-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Técnico Scrum Manager",
+        "startDate": "2018-05-01",
+        "institution": {
+          "name": "Scrum Manager",
+          "URL": "https://scrummanager.com/website/c/profile/member.php?id=21963"
+        },
+        "finishDate": "2020-05-01"
       }
     ]
   },
