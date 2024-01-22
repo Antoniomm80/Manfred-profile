@@ -19,7 +19,13 @@
         "country": "España",
         "region": "Región de Murcia"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/Antoniomm80"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -200,6 +206,12 @@
   },
   "careerPreferences": {
     "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://github.com/Antoniomm80",
+          "type": "github"
+        }
+      ],
       "contactMails": [
         "antoniomm80@gmail.com"
       ]
