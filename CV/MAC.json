@@ -211,6 +211,10 @@
           "type": "technology"
         },
         {
+          "name": "Dart",
+          "type": "technology"
+        },
+        {
           "name": "Go",
           "type": "technology"
         },
