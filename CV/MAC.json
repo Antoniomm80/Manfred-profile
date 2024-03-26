@@ -246,6 +246,23 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "E-Learning: LFD259 - Kubernetes for Developers",
+        "startDate": "2024-01-01",
+        "institution": {
+          "name": "The Linux Foundation",
+          "URL": "https://www.credly.com/badges/16191251-bf41-489c-90d4-3fc29a30e116/linked_in_profile"
+        },
+        "finishDate": "2027-01-01",
+        "linkedCompetences": [
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniero, Informatica",
