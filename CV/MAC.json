@@ -236,6 +236,16 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Beautiful British English B2 Programme (Upper Intermediate)",
+        "startDate": "2024-03-01",
+        "institution": {
+          "name": "English with Lucy",
+          "URL": "https://drive.google.com/file/d/1ixytRcvH8o-BolkI5Vyto9b4whnl7X-X/view?usp=sharing"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniero, Informatica",
