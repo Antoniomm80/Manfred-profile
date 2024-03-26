@@ -11,8 +11,8 @@
       "title": "Senior Software Developer",
       "description": "Soy uno de los Team Leaders del Equipo de IT de Weguest.\nDesarrollamos nuestras aplicaciones con Spring Boot 2.x y 3.x con Java 11, 17 o 21 y las compilamos con Maven. Testeamos exhaustivamente con Junit 5, Assertj, Mockito y Spring Testing Framework. Empleamos MySQL (Google Cloud SQL) como base de datos relacional, Google DataStore como BBDD No-SQL y RabbitMQ como broker de mensajería.\nRealizamos CI y en algunos proyectos CD apoyándonos en Jenkins.\nCreamos la UI web con React y Typescript, apoyándonos también en Axios, Tanstack Query o Zustand.\nNuestro website y blog está construido con Liferay.\nTodas nuestras aplicaciones están desplegadas en Google Cloud usando Compute Engine o el servicio gestionado de Kubernetes de Google Cloud, GKE.\n\nSoy Ingeniero Informático e Ingeniero Técnico en Informática de Sistemas con casi 20 años de experiencia en el desarrollo de aplicaciones web usando diversas tecnologías especialmente Spring Boot, JEE y Liferay. También cuento con experiencia puntual en el desarrollo aplicaciones para móviles iOS y Android.\n\nTecnologías Backend: Java, Spring Boot, Hibernate, JPA, Maven, Liferay, JUnit, AssertJ\nTecnologías Frontend: React, Redux, NPM, Yarn, Jest, Capacitor\nInfraestructura: Google Cloud Platform (GCP), Google Compute Engine (GCE), Google Kubernetes Engine (GKE), Cloud Sql (MySQL), Cloud DataStore (NoSQL), Google Artifact Registry, Nexus, Jenkins CI, GIT, Docker, RabbitMQ\n\n------------------------------------------------------\n\nI am one of the Team Leaders of the IT Team at Weguest. We develop our applications using Spring Boot 2.x and 3.x with Java 11, 17, or 21, and we compile them with Maven. We conduct thorough testing with Junit 5, Assertj, Mockito, and the Spring Testing Framework. We use MySQL (Google Cloud SQL) as a relational database, Google DataStore as a No-SQL database, and RabbitMQ as a messaging broker.\n\nWe implement Continuous Integration (CI) and, in some projects, Continuous Deployment (CD) with support from Jenkins. We create the web UI using React and Typescript, also utilizing Axios, Tanstack Query, or Zustand. Our website and blog are built with Liferay. All our applications are deployed on Google Cloud using Compute Engine or the managed Kubernetes service of Google Cloud, GKE.\n\nI am a Computer Engineer and Technical Engineer in Systems Informatics with nearly 20 years of experience in developing web applications using various technologies, especially Spring Boot, JEE, and Liferay. I also have occasional experience in developing applications for iOS and Android mobile platforms.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/df1bb7bf-40dd-49aa-a73c-87c4d8308b40_linkedin-photo-52499.linkedin-photo-52499",
-        "alt": "24/03/26/df1bb7bf-40dd-49aa-a73c-87c4d8308b40_linkedin-photo-52499.linkedin-photo-52499"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/ef244ab8-4ccf-4cab-8400-f6eb26f2c03c_linkedin-photo-52499.linkedin-photo-52499",
+        "alt": "24/03/26/ef244ab8-4ccf-4cab-8400-f6eb26f2c03c_linkedin-photo-52499.linkedin-photo-52499"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJza6U13waYw0RIthUR_UzzhQ)",
@@ -33,8 +33,8 @@
         "organization": {
           "name": "weguest",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/6285fad6-52e5-41bf-8b4c-e9e3af79dc0c_linkedin-photo-52499.linkedin-photo-52499",
-            "alt": "24/03/26/6285fad6-52e5-41bf-8b4c-e9e3af79dc0c_linkedin-photo-52499.linkedin-photo-52499"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/bc7f7a0f-d487-43d6-aac7-68e7bda0d164_linkedin-photo-52499.linkedin-photo-52499",
+            "alt": "24/03/26/bc7f7a0f-d487-43d6-aac7-68e7bda0d164_linkedin-photo-52499.linkedin-photo-52499"
           }
         },
         "roles": [
@@ -53,8 +53,8 @@
         "organization": {
           "name": "DIGIO Soluciones Digitales",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/3e430255-21fd-4866-816a-43f25e3dcca9_linkedin-photo-52499.linkedin-photo-52499",
-            "alt": "24/03/26/3e430255-21fd-4866-816a-43f25e3dcca9_linkedin-photo-52499.linkedin-photo-52499"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/71b40c68-9adb-49ee-b237-9e9680b1c2e5_linkedin-photo-52499.linkedin-photo-52499",
+            "alt": "24/03/26/71b40c68-9adb-49ee-b237-9e9680b1c2e5_linkedin-photo-52499.linkedin-photo-52499"
           }
         },
         "roles": [
@@ -69,8 +69,8 @@
         "organization": {
           "name": "OHIM",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/4c682248-a732-4fc9-a393-564d84178222_linkedin-photo-52499.linkedin-photo-52499",
-            "alt": "24/03/26/4c682248-a732-4fc9-a393-564d84178222_linkedin-photo-52499.linkedin-photo-52499"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/ece032d4-0926-4479-90e1-bbc4734dfdc3_linkedin-photo-52499.linkedin-photo-52499",
+            "alt": "24/03/26/ece032d4-0926-4479-90e1-bbc4734dfdc3_linkedin-photo-52499.linkedin-photo-52499"
           }
         },
         "roles": [
@@ -90,8 +90,8 @@
         "organization": {
           "name": "Steria",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/10e407aa-e3bb-4737-89f1-be9257de7c71_linkedin-photo-52499.linkedin-photo-52499",
-            "alt": "24/03/26/10e407aa-e3bb-4737-89f1-be9257de7c71_linkedin-photo-52499.linkedin-photo-52499"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/588291bd-38d7-4f1f-8101-6c2e4d34140b_linkedin-photo-52499.linkedin-photo-52499",
+            "alt": "24/03/26/588291bd-38d7-4f1f-8101-6c2e4d34140b_linkedin-photo-52499.linkedin-photo-52499"
           }
         },
         "roles": [
@@ -243,22 +243,11 @@
         "institution": {
           "name": "Universidad de Murcia",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/20/67bf73c1-7db9-474f-bad1-ae56912a2282_linkedin-photo-52499.linkedin-photo-52499",
-            "alt": "24/01/20/67bf73c1-7db9-474f-bad1-ae56912a2282_linkedin-photo-52499.linkedin-photo-52499"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/31e00952-d6b8-4f8f-8f3f-1864bbc20a99_linkedin-photo-52499.linkedin-photo-52499",
+            "alt": "24/03/26/31e00952-d6b8-4f8f-8f3f-1864bbc20a99_linkedin-photo-52499.linkedin-photo-52499"
           }
         },
         "finishDate": "2004-01-01"
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Técnico Scrum Manager",
-        "startDate": "2018-05-01",
-        "institution": {
-          "name": "Scrum Manager",
-          "URL": "https://scrummanager.com/website/c/profile/member.php?id=21963"
-        },
-        "finishDate": "2020-05-01"
       }
     ]
   },
