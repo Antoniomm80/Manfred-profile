@@ -11,8 +11,8 @@
       "title": "Senior Software Developer",
       "description": "Soy uno de los Team Leaders del Equipo de IT de Weguest.\nDesarrollamos nuestras aplicaciones con Spring Boot 2.x y 3.x con Java 11, 17 o 21 y las compilamos con Maven. Testeamos exhaustivamente con Junit 5, Assertj, Mockito y Spring Testing Framework. Empleamos MySQL (Google Cloud SQL) como base de datos relacional, Google DataStore como BBDD No-SQL y RabbitMQ como broker de mensajería.\nRealizamos CI y en algunos proyectos CD apoyándonos en Jenkins.\nCreamos la UI web con React y Typescript, apoyándonos también en Axios, Tanstack Query o Zustand.\nNuestro website y blog está construido con Liferay.\nTodas nuestras aplicaciones están desplegadas en Google Cloud usando Compute Engine o el servicio gestionado de Kubernetes de Google Cloud, GKE.\n\nSoy Ingeniero Informático e Ingeniero Técnico en Informática de Sistemas con casi 20 años de experiencia en el desarrollo de aplicaciones web usando diversas tecnologías especialmente Spring Boot, JEE y Liferay. También cuento con experiencia puntual en el desarrollo aplicaciones para móviles iOS y Android.\n\nTecnologías Backend: Java, Spring Boot, Hibernate, JPA, Maven, Liferay, JUnit, AssertJ\nTecnologías Frontend: React, Redux, NPM, Yarn, Jest, Capacitor\nInfraestructura: Google Cloud Platform (GCP), Google Compute Engine (GCE), Google Kubernetes Engine (GKE), Cloud Sql (MySQL), Cloud DataStore (NoSQL), Google Artifact Registry, Nexus, Jenkins CI, GIT, Docker, RabbitMQ\n\n------------------------------------------------------\n\nI am one of the Team Leaders of the IT Team at Weguest. We develop our applications using Spring Boot 2.x and 3.x with Java 11, 17, or 21, and we compile them with Maven. We conduct thorough testing with Junit 5, Assertj, Mockito, and the Spring Testing Framework. We use MySQL (Google Cloud SQL) as a relational database, Google DataStore as a No-SQL database, and RabbitMQ as a messaging broker.\n\nWe implement Continuous Integration (CI) and, in some projects, Continuous Deployment (CD) with support from Jenkins. We create the web UI using React and Typescript, also utilizing Axios, Tanstack Query, or Zustand. Our website and blog are built with Liferay. All our applications are deployed on Google Cloud using Compute Engine or the managed Kubernetes service of Google Cloud, GKE.\n\nI am a Computer Engineer and Technical Engineer in Systems Informatics with nearly 20 years of experience in developing web applications using various technologies, especially Spring Boot, JEE, and Liferay. I also have occasional experience in developing applications for iOS and Android mobile platforms.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/84ca5a40-8e6e-4fcb-a2b3-7b6706191803_linkedin-photo-52499.linkedin-photo-52499",
-        "alt": "24/03/26/84ca5a40-8e6e-4fcb-a2b3-7b6706191803_linkedin-photo-52499.linkedin-photo-52499"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/df1bb7bf-40dd-49aa-a73c-87c4d8308b40_linkedin-photo-52499.linkedin-photo-52499",
+        "alt": "24/03/26/df1bb7bf-40dd-49aa-a73c-87c4d8308b40_linkedin-photo-52499.linkedin-photo-52499"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJza6U13waYw0RIthUR_UzzhQ)",
@@ -33,8 +33,8 @@
         "organization": {
           "name": "weguest",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/6627fae1-edeb-4cca-84b8-809e3a66cd05_linkedin-photo-52499.linkedin-photo-52499",
-            "alt": "24/03/26/6627fae1-edeb-4cca-84b8-809e3a66cd05_linkedin-photo-52499.linkedin-photo-52499"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/6285fad6-52e5-41bf-8b4c-e9e3af79dc0c_linkedin-photo-52499.linkedin-photo-52499",
+            "alt": "24/03/26/6285fad6-52e5-41bf-8b4c-e9e3af79dc0c_linkedin-photo-52499.linkedin-photo-52499"
           }
         },
         "roles": [
@@ -53,8 +53,8 @@
         "organization": {
           "name": "DIGIO Soluciones Digitales",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/00fe39c3-4d2c-4379-8de6-fb861dbcbdf8_linkedin-photo-52499.linkedin-photo-52499",
-            "alt": "24/03/26/00fe39c3-4d2c-4379-8de6-fb861dbcbdf8_linkedin-photo-52499.linkedin-photo-52499"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/3e430255-21fd-4866-816a-43f25e3dcca9_linkedin-photo-52499.linkedin-photo-52499",
+            "alt": "24/03/26/3e430255-21fd-4866-816a-43f25e3dcca9_linkedin-photo-52499.linkedin-photo-52499"
           }
         },
         "roles": [
@@ -69,8 +69,8 @@
         "organization": {
           "name": "OHIM",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/3f1efbc2-d220-4a3e-9b25-d0d2b1e054b2_linkedin-photo-52499.linkedin-photo-52499",
-            "alt": "24/03/26/3f1efbc2-d220-4a3e-9b25-d0d2b1e054b2_linkedin-photo-52499.linkedin-photo-52499"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/4c682248-a732-4fc9-a393-564d84178222_linkedin-photo-52499.linkedin-photo-52499",
+            "alt": "24/03/26/4c682248-a732-4fc9-a393-564d84178222_linkedin-photo-52499.linkedin-photo-52499"
           }
         },
         "roles": [
@@ -90,8 +90,8 @@
         "organization": {
           "name": "Steria",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/0cb9e29f-2ca3-4ad9-a831-acd79ebbec9d_linkedin-photo-52499.linkedin-photo-52499",
-            "alt": "24/03/26/0cb9e29f-2ca3-4ad9-a831-acd79ebbec9d_linkedin-photo-52499.linkedin-photo-52499"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/26/10e407aa-e3bb-4737-89f1-be9257de7c71_linkedin-photo-52499.linkedin-photo-52499",
+            "alt": "24/03/26/10e407aa-e3bb-4737-89f1-be9257de7c71_linkedin-photo-52499.linkedin-photo-52499"
           }
         },
         "roles": [
@@ -139,13 +139,31 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Google Cloud",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Google Kubernetes Engine",
+          "name": "HTML",
           "type": "technology"
         }
       },
@@ -163,13 +181,25 @@
       },
       {
         "skill": {
-          "name": "Java",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "RabbitMQ",
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "LifeRay",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maven",
           "type": "technology"
         }
       },
@@ -181,13 +211,25 @@
       },
       {
         "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Spring Boot",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Spring Cloud",
+          "name": "jQuery",
           "type": "technology"
         }
       }
@@ -287,14 +329,6 @@
     "mainStackTechs": [
       {
         "name": "Google Cloud",
-        "type": "technology"
-      },
-      {
-        "name": "Google Kubernetes Engine",
-        "type": "technology"
-      },
-      {
-        "name": "Java",
         "type": "technology"
       },
       {
