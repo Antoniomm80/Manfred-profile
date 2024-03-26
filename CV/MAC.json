@@ -157,6 +157,12 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Google Cloud",
           "type": "technology"
         }
@@ -176,6 +182,12 @@
       {
         "skill": {
           "name": "JPA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -359,7 +371,15 @@
         "type": "technology"
       },
       {
-        "name": "React",
+        "name": "Hibernate",
+        "type": "technology"
+      },
+      {
+        "name": "Java",
+        "type": "technology"
+      },
+      {
+        "name": "Kubernetes",
         "type": "technology"
       },
       {
