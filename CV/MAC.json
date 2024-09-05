@@ -214,7 +214,7 @@
       },
       {
         "skill": {
-          "name": "LifeRay",
+          "name": "Liferay",
           "type": "technology"
         }
       },
@@ -265,6 +265,24 @@
           "name": "English with Lucy",
           "URL": "https://drive.google.com/file/d/1ixytRcvH8o-BolkI5Vyto9b4whnl7X-X/view?usp=sharing"
         }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "CKAD - Certified Kubernetes Application Developer",
+        "startDate": "2024-08-01",
+        "institution": {
+          "name": "The Linux Foundation",
+          "description": "Earners of this designation demonstrated the skills, knowledge and competencies to perform the responsibilities of a Kubernetes Application Developer. Earners are able to define application resources and use core primitives to build, monitor, and troubleshoot scalable applications and tools in Kubernetes. The skills and knowledge demonstrated by earners include Core Concepts, Configuration, Multi-Container Pods, Observability, Pod Design, Services & Networking, State Persistence.",
+          "URL": "https://www.credly.com/badges/a5a7b50a-c944-4c79-83d4-4b755ada2498/public_url"
+        },
+        "finishDate": "2026-08-01",
+        "linkedCompetences": [
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "certification",
