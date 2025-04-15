@@ -347,10 +347,6 @@
           "type": "technology"
         },
         {
-          "name": "Go",
-          "type": "technology"
-        },
-        {
           "name": "Google Cloud",
           "type": "technology"
         },
@@ -360,6 +356,10 @@
         },
         {
           "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Spring",
           "type": "technology"
         },
         {
