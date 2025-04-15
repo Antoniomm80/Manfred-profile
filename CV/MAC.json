@@ -355,6 +355,10 @@
           "type": "technology"
         },
         {
+          "name": "JPA",
+          "type": "technology"
+        },
+        {
           "name": "Java",
           "type": "technology"
         },
