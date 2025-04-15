@@ -351,6 +351,10 @@
           "type": "technology"
         },
         {
+          "name": "Hibernate",
+          "type": "technology"
+        },
+        {
           "name": "Java",
           "type": "technology"
         },
